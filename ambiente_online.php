@@ -1,4 +1,5 @@
 ﻿<?php
+23
 ob_start();
 include_once("extras/variaveis.php");
 seguranca();
